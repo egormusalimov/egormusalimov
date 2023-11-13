@@ -11,7 +11,7 @@
 
 ### How to reach me \ Связаться со мной
  - Gmail: egormusalimov@gmail.com 
- - Telegram: https://t.me/iamtestosteroid
+ - Telegram: https://t.me/egormusalimov
 
 <!--
 **egormusalimov/egormusalimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
